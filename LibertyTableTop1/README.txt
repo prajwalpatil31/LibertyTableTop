@@ -16,3 +16,12 @@ Created the productCatalogue folder and added the index.cshtml file, added the c
 Added Products.cs file in models. 
 
 Wrote code in Product.cs, to display the item.
+
+Rona Rachel Mathew 
+
+Clone the Project.
+
+Run and test the application.
+
+
+Write the method in the controller class.
