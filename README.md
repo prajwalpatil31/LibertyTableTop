@@ -1,13 +1,20 @@
-Cybersecurity 
 CYB 206 - Web Application Security
+
 2025-02-20
+
 Team: PI
+
 Team members: Prajwal Patil (0873398)
               Rona Rachel Mathew (0874259)
+
 Project Object: Table
+
 Project Name: LibertyTableTop
+
 Tools: HTML, CSS
+
 Logo:
+
 Location: St Clair college, Windsor, ON
 
 About LibertyTableTop
