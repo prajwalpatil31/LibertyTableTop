@@ -4,7 +4,7 @@ CYB 206 - Web Application Security
 
 Team: PI
 
-Team members: Prajwal Patil (0873398)
+Team members: Prajwal Patil (0873398),
               Rona Rachel Mathew (0874259)
 
 Project Object: Table
