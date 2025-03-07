@@ -28,7 +28,7 @@ namespace LibertyTableTop1.Controllers
             return View();
         }
 
-        public IActionResult ProductCatalog()
+        public IActionResult ProductCatlog1()
         {
             return View();
         }

@@ -23,9 +23,12 @@ Clone the Project.
 
 Run and test the application.
 
-
 Write the method in the controller class.
 
 Prajwal Patil 2025-02-20
 
 Pull the repository, and updated the repository.
+
+Add the route path for the aboutUs page and test it.
+
+Add the route path for the ProductCatalog page and test it.
