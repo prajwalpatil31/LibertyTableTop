@@ -32,3 +32,22 @@ Pull the repository, and updated the repository.
 Add the route path for the aboutUs page and test it.
 
 Add the route path for the ProductCatalog page and test it.
+
+
+Prajwal Patil 2025-03-07
+
+Added a route for the ProductCatalog page to display the list of available products.
+
+Added a route for the AboutUs page to display company information, including:
+    Team members (Prajwal Patil, Rona Rachel Mathew)
+    Tools used (HTML, CSS)
+    Company background and vision.
+
+Configured product images to be stored in the root images folder 
+
+Displayed images in the ProductCatalog page.
+
+Ran and tested the application to verify the routing functionality for ProductCatalog and AboutUs pages.
+
+Pulled the repository to ensure all changes were synchronized and updated.
+
